@@ -11,6 +11,10 @@ Now a change in the browser
 
 HAHAHA I copied a file locally
 
+<<<<<<< HEAD
 Opps I did it again :)
 
 **Sneeky browser change**  HAHAHAH
+=======
+Opps I did it again :)
+>>>>>>> parent of 2b6a503 (Update ThirdGitFile.md)
